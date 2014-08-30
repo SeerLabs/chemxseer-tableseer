@@ -1,0 +1,8 @@
+The table search code has been modified to provide a simpler interface,
+we have added some checks for false positives in the code and it now
+has an interface similar to the SeerSuite Inteface - the way to run the
+code would include setting up the class path to include the bin directory of
+tablesearch, PDFBox library, the FontBox library, jdom , the log4j library jar files
+(which can be found in the lib directory) into the path and running
+
+java edu/psu/seersuite/extractors/tableextractor/extraction/SeerSuiteTableExtractor PDFFILE ID

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/model
+END
+TableRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/model/TableRow.java
+END
+DocInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/subversion/!svn/ver/201/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/model/DocInfo.java
+END
+TableCandidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/model/TableCandidate.java
+END
+TableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/subversion/!svn/ver/195/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/model/TableColumn.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/model/Table.java
+END
+TextPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/model/TextPiece.java
+END

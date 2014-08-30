@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/dist/lib
+END
+FontBox-0.1.0-dev.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/dist/lib/FontBox-0.1.0-dev.jar
+END
+PDFBox-0.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/dist/lib/PDFBox-0.7.3.jar
+END
+weka.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/!svn/ver/195/chemxseer/branches/tableseer/table_extractor/dist/lib/weka.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/dist/lib/jdom.jar
+END
+swt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/dist/lib/swt.jar
+END
+FastRandomForest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/!svn/ver/195/chemxseer/branches/tableseer/table_extractor/dist/lib/FastRandomForest.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/dist/lib/log4j-1.2.15.jar
+END
+tableextractor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/dist/lib/tableextractor.jar
+END

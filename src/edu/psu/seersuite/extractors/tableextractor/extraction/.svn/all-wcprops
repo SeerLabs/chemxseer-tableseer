@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction
+END
+IPdfParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/IPdfParser.java
+END
+PdfBoxParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/PdfBoxParser.java
+END
+PdfFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/PdfFileFilter.java
+END
+RowFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/subversion/!svn/ver/201/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/RowFeatureExtractor.java
+END
+NewComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/NewComparator.java
+END
+HeaderHierarchyExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/HeaderHierarchyExtractor.java
+END
+TableExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/TableExtractor.java
+END
+TreeDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/TreeDrawer.java
+END
+ColFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/ColFeatureExtractor.java
+END
+BoxTableExtractor-java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/subversion/!svn/ver/194/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/BoxTableExtractor-java
+END
+BoxTableExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/subversion/!svn/ver/201/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/BoxTableExtractor.java
+END
+SeerSuiteTableExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/subversion/!svn/ver/201/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/SeerSuiteTableExtractor.java
+END
+BatchExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/subversion/!svn/ver/209/chemxseer/branches/tableseer/table_extractor/src/edu/psu/seersuite/extractors/tableextractor/extraction/BatchExtractor.java
+END
